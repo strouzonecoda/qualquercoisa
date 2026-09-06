@@ -1,25 +1,80 @@
-## 🌐 Conecte-se comigo
+## Tecnologias e ferramentas
 
-<div style="display: flex; gap: 8px; align-items: center;">
+### Front-end
 
-<a href="https://portfolio-kaua-carreiro.netlify.app/">
-<img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
-</a>
+<table border="0">
+<tr>
 
-<a href="https://www.linkedin.com/in/kauacarreirocosta/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"><br>
+<b>HTML</b>
+</td>
 
-<a href="https://www.instagram.com/_kauaccosta">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"><br>
+<b>CSS</b>
+</td>
 
-<a href="mailto:kauacarreirocosta@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"><br>
+<b>JavaScript</b>
+</td>
 
-</div>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"><br>
+<b>TypeScript</b>
+</td>
 
----
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50"><br>
+<b>Angular</b>
+</td>
 
-> *"O segredo do sucesso é nunca parar de aprender."*
+</tr>
+</table>
+
+### Back-end e dados
+
+<table border="0">
+<tr>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"><br>
+<b>Java</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"><br>
+<b>MySQL</b>
+</td>
+
+</tr>
+</table>
+
+### Ferramentas
+
+<table border="0">
+<tr>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"><br>
+<b>Git</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"><br>
+<b>GitHub</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"><br>
+<b>Figma</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="50"><br>
+<b>Notion</b>
+</td>
+
+</tr>
+</table>

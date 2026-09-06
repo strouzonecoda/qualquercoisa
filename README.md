@@ -6,40 +6,67 @@
 
 ### 🎨 Front-end
 
-<div align="center">
-
-<img title="HTML" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img title="CSS" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img title="JavaScript" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img title="TypeScript" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-<img title="React" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-<img title="Angular" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-
-<br>
-
-HTML&nbsp;&nbsp;&nbsp; CSS&nbsp;&nbsp;&nbsp; JavaScript&nbsp;&nbsp;&nbsp; TypeScript&nbsp;&nbsp;&nbsp; React&nbsp;&nbsp;&nbsp; Angular
-
-</div>
-
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"><br>
+      HTML
     </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"><br>
+      CSS
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"><br>
+      JavaScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"><br>
+      TypeScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"><br>
+      React
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"><br>
+      Angular
+    </td>
+  </tr>
+</table>
 
-    <td width="50%" valign="top">
+  </td>
+
+  <td width="50%" valign="top">
 
 ### ⚙️ Back-end
 
-<div align="center">
-
-<img title="Java" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img title="Node.js" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-<img title="Python" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-
-<br>
-
-Java&nbsp;&nbsp;&nbsp; Node.js&nbsp;&nbsp;&nbsp; Python&nbsp;&nbsp;&nbsp; APIs REST
-
-</div>
-
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"><br>
+      Java
     </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"><br>
+      Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"><br>
+      Python
+    </td>
+    <td align="center">
+      🔗<br>
+      APIs REST
+    </td>
+  </tr>
+</table>
+
+  </td>
   </tr>
 
   <tr>
@@ -47,37 +74,60 @@ Java&nbsp;&nbsp;&nbsp; Node.js&nbsp;&nbsp;&nbsp; Python&nbsp;&nbsp;&nbsp; APIs R
 
 ### 🗄️ Dados
 
-<div align="center">
-
-<img title="MySQL" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-<img title="PostgreSQL" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-
-<br>
-
-MySQL&nbsp;&nbsp;&nbsp; PostgreSQL&nbsp;&nbsp;&nbsp; SQL
-
-</div>
-
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"><br>
+      MySQL
     </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"><br>
+      PostgreSQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🗃️<br>
+      SQL
+    </td>
+    <td></td>
+  </tr>
+</table>
 
-    <td width="50%" valign="top">
+  </td>
+
+  <td width="50%" valign="top">
 
 ### 🛠️ Ferramentas
 
-<div align="center">
-
-<img title="Git" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img title="GitHub" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-<img title="VS Code" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-<img title="Figma" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-<img title="Notion" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg">
-
-<br>
-
-Git&nbsp;&nbsp;&nbsp; GitHub&nbsp;&nbsp;&nbsp; VS Code&nbsp;&nbsp;&nbsp; Figma&nbsp;&nbsp;&nbsp; Notion
-
-</div>
-
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"><br>
+      Git
     </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"><br>
+      GitHub
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"><br>
+      VS Code
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"><br>
+      Figma
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40"><br>
+      Notion
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+  </td>
   </tr>
 </table>

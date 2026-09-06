@@ -28,36 +28,52 @@ Busco uma **oportunidade de estágio em Desenvolvimento de Software** onde eu po
 
 ## 🛠️ Tecnologias
 
-### 💻 Front-end
+### 💻 Desenvolvimento Web
 
-<div align="left">
+<div align="center">
 
-<img title="HTML" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img title="CSS" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img title="HTML5" alt="HTML5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img title="CSS3" alt="CSS3" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img title="JavaScript" alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img title="TypeScript" alt="TypeScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+
+</div>
+
+### ⚛️ Frameworks e Bibliotecas
+
+<div align="center">
+
 <img title="React" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img title="Angular" alt="Angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 
 </div>
 
-### ⚙️ Back-end & Banco de Dados
+### ☕ Linguagens de Programação
 
-<div align="left">
+<div align="center">
 
 <img title="Java" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img title="Python" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+
+</div>
+
+### 🗄️ Banco de Dados
+
+<div align="center">
+
 <img title="MySQL" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
 </div>
 
-### 🎨 Design
+### 🎨 Design e Organização
 
-<div align="left">
+<div align="center">
 
 <img title="Figma" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+<img title="Notion" alt="Notion" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg">
 
 </div>
+
 
 
 ## 🚀 Projetos em destaque

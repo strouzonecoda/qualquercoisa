@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<table>
+<table border="0" cellspacing="0" cellpadding="5">
 <tr>
 <td>
 <a href="https://portfolio-kaua-carreiro.netlify.app/">
